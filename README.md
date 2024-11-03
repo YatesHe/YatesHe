@@ -1,5 +1,5 @@
-- Hi, I’m Yates He, an undergraduate coming from China.
-- I’m currently doing a course in the intelligent medical engineering
+- Hi, I’m Yeti He, a graduate student in the US, coming from China.
+- I was doing a course in the intelligent medical engineering when undergraduate.
 - Wish that we could lend a hand to each others in programing.
 - If anything needed, please send emails to yetaohe74710@outlook.com
 
